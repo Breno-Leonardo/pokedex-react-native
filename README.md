@@ -1,6 +1,6 @@
 # pokedex-react-native
 
-Uma Pokedex que posibilite vizualizar informações sobre os pokemons.
+Uma Pokedex que posibilite visualizar informações sobre os pokemons.
 
 Limitações:
 - Atualmente o app está consumindo os 151 primeiros pokemons, mas isso pode ser facilmente alterado na requisição definindo outro limite
